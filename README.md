@@ -1,4 +1,4 @@
-# Leo Oli | Dev, cripto mentor e entusiasta do caos bem organizado
+# Leo Oli | Dev, cripto mentor
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+ADS+na+FIAP;Explorando+Blockchain+e+Cripto;Mentor+em+investimentos+digitais;Criando+portf%C3%B3lio+art%C3%ADstico+e+t%C3%A9cnico;Zerando+Souls+Games+na+bike+ergom%C3%A9trica)](https://git.io/typing-svg)
 
