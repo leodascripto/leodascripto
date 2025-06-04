@@ -2,7 +2,7 @@
 # Leo Oli | Desenvolvedor Blockchain & Especialista em Web3
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Desenvolvedor+Blockchain;Web3+%26+Contratos+Inteligentes;Desenvolvedor+Full+Stack;Estudante+de+Ciência+da+Computação+na+FIAP" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Desenvolvedor+Blockchain;Web3+%26+Contratos+Inteligentes;Desenvolvedor+Full+Stack;Estudante+de+ADS+na+FIAP" />
 </div>
 
 ## 💼 Resumo Profissional
