@@ -1,194 +1,89 @@
 <div align="center">
-  <img src="https://i.ibb.co/Z69jRjnM/Leo-Oli-dourado.png" alt="Leo Oli" width="573.5" height="157"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Engenheiro+de+Software;Mentor+Web3+%26+Blockchain;Desenvolvedor+Mobile;Educador+em+Criptomoedas&color=FFD700" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Web3-Mentor%20%26%20Educador-FFD700?style=for-the-badge&logo=ethereum&logoColor=black" alt="Web3"/>
-  <img src="https://img.shields.io/badge/Mobile-React%20Native%20%26%20Kotlin-00D9FF?style=for-the-badge&logo=react&logoColor=black" alt="Mobile"/>
+  <img src="assets/banner.svg" alt="Leo Oli: engenheiro de software, cofundador da Trinca, instrutor de cripto" width="900"/>
 </div>
 
----
+# Leo Oli (Leonardo de Oliveira)
 
-## 🌟 **Tecnologia com Propósito: Educação, Inovação e Comunidade**
+Engenheiro de software, cofundador da Trinca e instrutor de cripto. Moro em São Paulo, trabalho remoto e estou aberto a novas oportunidades. Construo software, invisto em Bitcoin e ensino o que aprendo.
 
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 30px; border-radius: 15px; border: 2px solid #FFD700;">
-
-Sou **Engenheiro de Software** com foco em desenvolvimento mobile e tecnologias descentralizadas. Atuo como mentor e educador no ecossistema Web3, liderando iniciativas educacionais e construindo comunidades no espaço cripto.
-
-Minha trajetória combina engenharia de software com uma paixão por educação e inovação, buscando sempre conectar pessoas à tecnologia de forma acessível e impactante.
-
-</div>
-
----
-
-## 🎯 **Trajetória Profissional**
-
-### 💻 **Engenheiro de Software**
-<div style="border-left: 4px solid #FFD700; padding-left: 20px; margin: 20px 0;">
-
-- Desenvolvimento de soluções escaláveis para diversos usuários
-- Expertise em **Kotlin** e arquitetura mobile de alta performance
-- Foco em **experiência do usuário** e **segurança de aplicações**
-
-</div>
-
-### 🎮 **CEO & Fundador @ NFT Treasure**
-<div style="border-left: 4px solid #FFD700; padding-left: 20px; margin: 20px 0;">
-
-- Construí uma comunidade vibrante com **700+ membros ativos**
-- Especialização em **economia de jogos NFT** e Axie Infinity
-- Desenvolvimento de estratégias de **yield farming** e otimização de ROI
-- Curadoria rigorosa para garantir qualidade e confiança na comunidade
-
-</div>
-
-### 📚 **Instrutor @ CriptoLab**
-<div style="border-left: 4px solid #FFD700; padding-left: 20px; margin: 20px 0;">
-
-- Mentor de **análise gráfica** para mercados de criptomoedas
-- Desenvolvimento de currículos sobre **DeFi** e protocolos blockchain
-- Educação sobre **gestão de risco** em ativos digitais
-- Desmistificação da tecnologia blockchain para iniciantes
-
-</div>
-
----
-
-### 💡 Stack Completo
-
-#### 🖥️ Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🛢️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-#### 🔗 Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi-FF6B6B?style=for-the-badge&logo=chainlink&logoColor=white)
-
-#### 🧰 Ferramentas & Outros
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-
-</div>
-
----
-
-## 🚀 **Projetos em Destaque - FIAP**
+[Site](https://leooli.netlify.app) · [LinkedIn](https://www.linkedin.com/in/leooli) · [Instagram](https://www.instagram.com/leooli.art) · [Trinca no Instagram](https://www.instagram.com/trinca.web/)
 
 <div align="center">
-  <h3 style="color: #FFD700;">🏆 Soluções Robustas e Inovadoras</h3>
+<a href="https://www.instagram.com/trinca.web/"><img src="assets/logo-trinca.png" alt="Trinca" height="90"/></a>
+<a href="https://cursocriptolab.web.app/"><img src="assets/logo-criptolab.png" alt="CriptoLab" height="90"/></a>
+<a href="https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP" height="90"/></a>
+<img src="assets/logo-nft-treasure.png" alt="NFT Treasure" height="90"/>
 </div>
 
-### **📱 Aplicativo de Análise de Linguagem Multi-idioma**
-<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0;">
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-- **Stack:** Kotlin, React Native, APIs de Processamento de Linguagem Natural
-- **Impacto:** Solução para internacionalização de aplicativos móveis
-- **Destaque:** Implementação de análise contextual e tradução automática
-- **Status:** <img src="https://img.shields.io/badge/Projeto%20FIAP-Concluído-FFD700?style=flat-square" alt="FIAP"/>
+## Trabalho atual
 
-</div>
+Sou cofundador da **Trinca**, uma agência digital que faz sites, apps e dashboards. Somos em três: eu (desenvolvimento e parte comercial), o Gustavo (dev) e a Carla (design). Eu fiz o painel interno da agência (pipeline, contratos, propostas) e o LeadMaps, uma ferramenta que cruza dados públicos e mostra leads em um mapa. Nos projetos dos clientes trabalhei com autenticação multifator, permissões por nível, pagamento com carteira virtual, verificação facial com IA, versão em português e inglês e LGPD.
 
-### **💼 Sistema de Gestão de Ativos Digitais**
-<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0;">
+Uso no dia a dia: Next.js, React, React Native, TypeScript, Tailwind, Supabase, Vercel e Figma.
 
-- **Stack:** Solidity, Web3.js, React Native, Node.js
-- **Impacto:** Integração entre DeFi e experiência mobile tradicional
-- **Destaque:** Smart contracts otimizados para baixo consumo de gas
-- **Status:** <img src="https://img.shields.io/badge/Projeto%20FIAP-Em%20Produção-FFD700?style=flat-square" alt="FIAP"/>
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-</div>
+## Open source: God of War III Remastered no PC
 
-### **🎯 Plataforma Educacional de Criptomoedas Mobile**
-<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0;">
-
-- **Stack:** React Native, TypeScript, Firebase, APIs de Exchange
-- **Impacto:** **10.000+ downloads** na Google Play Store
-- **Destaque:** Gamificação do aprendizado sobre blockchain
-- **Status:** <img src="https://img.shields.io/badge/Projeto%20FIAP-Escalando-FFD700?style=flat-square" alt="FIAP"/>
-
-</div>
-
----
-
-## 🎨 **O Tecnologista Criativo**
+Contribuo com o [gow3_pc](https://github.com/FelipePrado0/gow3_pc), o port de PC do God of War III Remastered (C++, mais de 3,3 mil estrelas). Tenho 3 PRs mesclados (+2.183 / −89 linhas) e mais um em revisão. As notas da versão 2.4.0 agradecem pelo suporte a ultrawide.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Onde+código+encontra+arte;Onde+educação+encontra+tecnologia&color=FFD700" />
+<img src="assets/gow3-formatos.gif" alt="O mesmo jogo em 16:9, 4:3 e 9:16" width="560"/>
+<img src="assets/gow3-4x3-antes-depois.gif" alt="Antes e depois da correção do 4:3" width="430"/>
 </div>
 
-Minha abordagem à tecnologia transcende a engenharia pura, incorporando **sensibilidade artística** e **pensamento visual**. Acredito que a verdadeira inovação surge quando combinamos:
+| PR | O que faz |
+|---|---|
+| [#202](https://github.com/FelipePrado0/gow3_pc/pull/202) | Mods que carregam patches de jogo (em `.zip`) e suporte a telas ultrawide 21:9 e 32:9: a imagem preenche a tela, sem zoom. Inclui a ferramenta que gera o patch para qualquer resolução. |
+| [#521](https://github.com/FelipePrado0/gow3_pc/pull/521) | Mais resoluções: 1280x800 (Steam Deck), 1440x900, 1360x768, 4:3 e 5120x2160. Descobri por que o 4:3 saía com barras pretas: o jogo força um letterbox 16:9 quando um valor de proporção é exatamente 4/3. |
+| [#506](https://github.com/FelipePrado0/gow3_pc/pull/506) | 100 FPS como taxa do motor, para monitores de 100 Hz. |
+| [#696](https://github.com/FelipePrado0/gow3_pc/pull/696) | Em revisão: tira o rótulo "beta" dos tamanhos que jogadores já confirmaram. |
 
-- 🎨 **Design thinking** com arquitetura de software
-- 🌐 **Experiência do usuário** com protocolos descentralizados  
-- 📚 **Narrativas envolventes** com conceitos técnicos complexos
-- 🤝 **Construção de comunidade** com rigor tecnológico
+No total são 15 resoluções que entraram no jogo. Para chegar lá analisei o executável (x86-64) com Capstone, escrevi os patches por assinatura de bytes, testes em Python e C++, a documentação em inglês e português e um instalador para versões antigas. Testei em tela 21:9 e 5:4 e acompanhei os relatos de outros jogadores nas issues. Também abri uma [ideia de resoluções verticais](https://github.com/FelipePrado0/gow3_pc/issues/591), para monitor girado e para gravar vídeo vertical.
 
----
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-## 📈 **Impacto & Conquistas**
+## Projetos públicos
 
-<div align="center">
-  
-| Métrica | Conquista |
-|---------|-----------|
-| 👥 **Comunidade NFT Treasure** | 700+ membros ativos |
-| 🎓 **Alunos Mentorados** | 100+ em criptomoedas |
-| 💰 **Volume Transacionado** | $1M+ em projetos DeFi |
-| 🏆 **Projetos FIAP** | 15+ soluções entregues |
+Os trabalhos de cliente são privados, então aqui ficam só os públicos, a maioria da faculdade (FIAP).
 
-</div>
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [PokeAI](https://github.com/leodascripto/PokeAI) | App que usa IA para montar equipes Pokémon | React Native, TypeScript, Expo |
+| [WaterWise](https://github.com/leodascripto/WaterWise) | App de um sistema de IoT para prevenir enchentes urbanas | React Native, TypeScript |
+| [OdontoFast](https://github.com/leodascripto/Odontofast-ReactNative) e [API](https://github.com/leodascripto/OdontoFast-dotnet-API) | App de consultas e avisos de saúde bucal, e a API dele | React Native, .NET |
+| [EnergyX](https://github.com/leodascripto/EnergyX) | App de monitoramento e alertas para operadores de usina nuclear | Kotlin |
+| [FMDB](https://github.com/leodascripto/FMDB) | Banco de dados de filmes e séries | React Native, TypeScript |
+| [Sea Our Future](https://github.com/leodascripto/Sea-Our-Future) | Liga empresas de reciclagem de plástico a empresas de coleta | TypeScript |
+| [MarvelApp](https://github.com/leodascripto/Marvel-app-CP3) | App Android com personagens da Marvel | Kotlin |
 
----
+Na FIAP também fiz um app de educação em criptomoedas (React Native e TypeScript, 2024) que passou de 10 mil downloads na Google Play.
 
-## 🌐 **Conecte-se & Acompanhe**
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-<div align="center">
-  
-  <a href="https://github.com/leooli-321">
-    <img src="https://img.shields.io/badge/GitHub-Projetos%20Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/leooli">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://instagram.com/leodascripto">
-    <img src="https://img.shields.io/badge/Instagram-Educação%20Cripto-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Cripto"/>
-  </a>
-  
-  <a href="https://instagram.com/leooli.art">
-    <img src="https://img.shields.io/badge/Instagram-Portfolio%20Artístico-FF6B35?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Art"/>
-  </a>
+## Cripto e ensino
 
-</div>
+- **NFT Treasure (2021 a 2022):** fui CEO e fundador de uma operação de scholarships de Axie Infinity: 272 contas em 17 escolas, mais de 170 scholars e mais de 245 candidatos avaliados. A estimativa de produção bruta no período foi de uns US$ 280 mil em SLP. Encerrei a operação em 2022, quando o ciclo Play-to-Earn acabou, sem prejuízo para os scholars.
+- **CriptoLab (desde 2020):** curso com 8 módulos e mais de 25 aulas gravadas, mais mentoria individual. Mais de 80 alunos formados, com nota média de 4,96 de 5.
 
----
+### Livro, texto e áudio
 
-<div
-::contentReference[oaicite:0]{index=0}
- 
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://www.amazon.com.br/dp/B0GQYP31WC"><img src="assets/livro-historia-do-bitcoin.jpg" alt="Capa do livro A História do Bitcoin" width="150"/></a><br/><b>A História do Bitcoin</b><br/>Livro na Amazon (Kindle e capa comum)</td>
+<td align="center" width="40%"><a href="https://www.youtube.com/watch?v=_bfu36y_UDk"><img src="assets/podcast-criptoeconomia.jpg" alt="Podcast Dolarizando-se, episódio 2: CriptoEconomia" width="300"/></a><br/><b>Podcast Dolarizando-se, EP #002</b><br/>CriptoEconomia: Bitcoin, criptoverso e Web 3.0</td>
+<td align="center" width="35%"><a href="https://www.linkedin.com/pulse/criptomoedas-uma-introdu%C3%A7%C3%A3o-leonardo-de-oliveira-zo9af/"><b>Criptomoedas: Uma Introdução</b></a><br/>Artigo no LinkedIn sobre moeda digital, DeFi, staking e tokenização de ativos</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+## Formação
+
+Análise e Desenvolvimento de Sistemas na FIAP (2023 a 2025), mais um bootcamp Full Stack na iTuring (2022 a 2023). Na FIAP fiz 8 NanoCursos com média de 97% e entreguei mais de 15 projetos. Português nativo, inglês avançado, russo básico.
+
+## Tecnologias
+
+TypeScript, JavaScript, Kotlin, React, React Native, Next.js, Tailwind CSS, HTML e CSS, Figma e Git. Na faculdade também usei Java, .NET, Python e SQL.

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="8" viewBox="0 0 900 8" role="presentation">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd700" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffd700"/>
+      <stop offset="1" stop-color="#ffd700" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="900" height="8"/></clipPath>
+  </defs>
+  <style>
+    .line { opacity: .25; }
+    .move { animation: move 5s ease-in-out infinite alternate; }
+    @keyframes move { from { transform: translateX(-250px); } to { transform: translateX(650px); } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect class="line" x="0" y="3" width="900" height="2" fill="#ffd700"/>
+    <rect class="move" x="0" y="2" width="400" height="4" rx="2" fill="url(#g)"/>
+  </g>
+</svg>
