@@ -56,7 +56,7 @@ TypeScript, JavaScript, Kotlin, React, React Native, Next.js, Tailwind CSS, HTML
 
 ## Open source: God of War III Remastered no PC
 
-Contribuo com o [gow3_pc](https://github.com/FelipePrado0/gow3_pc), o port de PC do God of War III Remastered (C++, mais de 3,3 mil estrelas). Tenho 3 PRs mesclados (+2.183 / −89 linhas) e mais um em revisão, e as notas da versão 2.4.0 agradecem pelo suporte a ultrawide.
+Contribuo com o [SpartanPort](https://github.com/FelipePrado0/SpartanPort), o port de PC do God of War III Remastered (antes chamado gow3_pc; C++, mais de 3,7 mil estrelas). Tenho 4 PRs mesclados (+2.208 / −110 linhas) e mais um em revisão, e as notas da versão 2.4.0 agradecem pelo suporte a ultrawide.
 
 <div align="center">
 <img src="assets/gow3-formatos.gif" alt="O mesmo jogo em 16:9, 4:3 e 9:16" width="560"/>
@@ -64,10 +64,11 @@ Contribuo com o [gow3_pc](https://github.com/FelipePrado0/gow3_pc), o port de PC
 
 | PR | O que faz |
 |---|---|
-| [#202](https://github.com/FelipePrado0/gow3_pc/pull/202) | Mods com patches de jogo e suporte a telas ultrawide 21:9 e 32:9, com a imagem preenchendo a tela. |
-| [#521](https://github.com/FelipePrado0/gow3_pc/pull/521) | Mais resoluções (Steam Deck, 4:3, 5120x2160) e a causa das barras pretas no 4:3, achada por engenharia reversa do executável. |
-| [#506](https://github.com/FelipePrado0/gow3_pc/pull/506) | 100 FPS como taxa do motor, para monitores de 100 Hz. |
-| [#696](https://github.com/FelipePrado0/gow3_pc/pull/696) | Em revisão: tira o rótulo "beta" dos tamanhos já confirmados por jogadores. |
+| [#202](https://github.com/FelipePrado0/SpartanPort/pull/202) | Mods com patches de jogo e suporte a telas ultrawide 21:9 e 32:9, com a imagem preenchendo a tela. |
+| [#521](https://github.com/FelipePrado0/SpartanPort/pull/521) | Mais resoluções (Steam Deck, 4:3, 5120x2160) e a causa das barras pretas no 4:3, achada por engenharia reversa do executável. |
+| [#506](https://github.com/FelipePrado0/SpartanPort/pull/506) | 100 FPS como taxa do motor, para monitores de 100 Hz. |
+| [#696](https://github.com/FelipePrado0/SpartanPort/pull/696) | Tira o rótulo "beta" dos tamanhos já confirmados por jogadores. |
+| [#894](https://github.com/FelipePrado0/SpartanPort/pull/894) | Em revisão: corrige um erro da renomeação do projeto que deixava a versão asiática do jogo (CUSA01740) sem nenhum patch. |
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
