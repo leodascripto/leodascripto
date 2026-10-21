@@ -62,6 +62,8 @@ Contribuo com o [SpartanPort](https://github.com/FelipePrado0/SpartanPort), o po
 <img src="assets/gow3-formatos.gif" alt="O mesmo jogo em 16:9, 4:3 e 9:16" width="560"/>
 </div>
 
+Também propus o formato **vertical (9:16)**: serve para quem usa um monitor girado e para gravar vídeos para Reels e TikTok direto do jogo, sem recortar. Está na [issue #591](https://github.com/FelipePrado0/SpartanPort/issues/591), com testes para quem quiser experimentar.
+
 | PR | O que faz |
 |---|---|
 | [#202](https://github.com/FelipePrado0/SpartanPort/pull/202) | Mods com patches de jogo e suporte a telas ultrawide 21:9 e 32:9, com a imagem preenchendo a tela. |
